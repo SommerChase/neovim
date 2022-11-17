@@ -1,0 +1,5 @@
+1. Neovim from scratch youtube series: https://www.youtube.com/watch?v=435-amtVYJ8&t=45s
+2. Lua
+3. Netrw? https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
+4. Promising Neovim blog: https://www.dwarmstrong.org/neovim/
+
